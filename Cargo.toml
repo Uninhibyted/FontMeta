@@ -1,0 +1,13 @@
+[package]
+name = "fontmeta"
+version = "0.1.0"
+edition = "2024"
+description = "Terminal UI for viewing and editing font metadata in TTF/OTF files"
+license = "MIT"
+
+
+[dependencies]
+anyhow = "1"
+crossterm = "0.29"
+ratatui = "0.30"
+ttf-parser = "0.25"
