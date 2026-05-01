@@ -1,7 +1,8 @@
 # FontMeta
 
 A terminal UI for viewing and editing font metadata in TTF/OTF files.
-My main goal was an app to quickly rename the family 
+
+My main goal was an app to quickly rename the font family of a large group of fonts all at once.
 
 ![FontMeta screenshot](screenshot.png)
 
